@@ -1,0 +1,28 @@
+Reminder / Meshwary
+•	Team
+1-	Abdallah Soliman
+2-	Hesham Mohamed
+3-	Hoda Mohamed 
+
+•	Description:
+Android Mobile Application that helps the user to record his planned trips.You can add , repeat a trip daily , monthly or yearly . you can even find the distance you cut during your trip . you can find the route you took and it’s picture on a map with different color describing the route . you can use the floating circle on the screen to mark and read your notes and you can end your trip by dragging it to the end mark (X) of the screen with vibration effect , it’s easy like a piece of cake
+
+•	Features:
+1-	Login and sign up with Firebase.
+2-	Login with Facebook
+3-	Flexible Scheduling: the user can save, update delete his Trips.
+4-	Reminder: This application reminds the user with the trip at the time he has previously scheduled.
+5-	Show Past Trips
+6-	Show Trip Details
+7-	Notes: The user can add some notes to his trip.
+8-	Google Maps
+9-	Auto-complete Place
+
+Trello Link
+https://trello.com/b/kGjk5HLV/android-project
+
+minSdkVersion 18
+targetSdkVersion 26
+versionCode 1
+versionName "1.0"
+
